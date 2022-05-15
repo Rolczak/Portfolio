@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85.04" height="85.038" data-name="Layer 1" version="1.1" viewBox="0 0 85.04 85.038" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style>.cls-1{fill:#b2b2b2;}.cls-2{fill:url(#linear-gradient);}.cls-3{fill:url(#linear-gradient-2);}.cls-4{fill:url(#linear-gradient-3);}.cls-5{fill:url(#linear-gradient-4);}.cls-6{fill:url(#linear-gradient-5);}.cls-7{fill:url(#linear-gradient-6);}.cls-8{fill:url(#linear-gradient-7);}.cls-9{fill:url(#linear-gradient-8);}.cls-10{fill:#003869;}</style>
+  <linearGradient id="linear-gradient" x1="-11.539" x2="13.186" y1="149.12" y2="124.4" gradientTransform="rotate(44.992 21.853 186.73)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6bb644" offset="0"/>
+   <stop stop-color="#94c356" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linear-gradient-2" x1="-621.88" x2="-607.71" y1="157.78" y2="143.61" gradientTransform="rotate(45 -279.05 961.26)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#94c356" offset="0"/>
+   <stop stop-color="#6bb644" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linear-gradient-3" x1="2.6354" x2="27.359" y1="134.95" y2="110.23" gradientTransform="rotate(45.004 106.97 62.979)" xlink:href="#linear-gradient"/>
+  <linearGradient id="linear-gradient-4" x1="16.807" x2="41.533" y1="149.12" y2="124.4" gradientTransform="rotate(45 50.2 186.72)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#25a73f" offset="0"/>
+   <stop stop-color="#008c49" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linear-gradient-5" x1="-593.53" x2="-579.36" y1="157.78" y2="143.61" gradientTransform="rotate(44.996 -208.08 823.42)" xlink:href="#linear-gradient-2"/>
+  <linearGradient id="linear-gradient-6" x1="45.153" x2="69.878" y1="149.12" y2="124.4" gradientTransform="rotate(45 106.98 62.98)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#008c49" offset="0"/>
+   <stop stop-color="#25a73f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linear-gradient-7" x1="30.979" x2="55.705" y1="134.95" y2="110.22" gradientTransform="rotate(45 106.98 62.98)" xlink:href="#linear-gradient-4"/>
+  <linearGradient id="linear-gradient-8" x1="16.807" x2="41.533" y1="120.78" y2="96.052" gradientTransform="rotate(44.992 107 62.983)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eae983" offset=".2"/>
+   <stop stop-color="#94c356" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1476" x1="-11.539" x2="13.186" y1="149.12" y2="124.4" gradientTransform="rotate(44.992 107 62.983)" gradientUnits="userSpaceOnUse" xlink:href="#linear-gradient"/>
+  <linearGradient id="linearGradient1478" x1="-621.88" x2="-607.71" y1="157.78" y2="143.61" gradientTransform="rotate(45 -208.1 823.34)" gradientUnits="userSpaceOnUse" xlink:href="#linear-gradient-2"/>
+  <linearGradient id="linearGradient1480" x1="16.807" x2="41.533" y1="149.12" y2="124.4" gradientTransform="rotate(45 106.98 62.98)" gradientUnits="userSpaceOnUse" xlink:href="#linear-gradient-4"/>
+ </defs>
+ <polygon class="cls-1" transform="translate(.00051528 -.0014746)" points="42.521 70.865 56.693 85.039 28.348 85.039"/>
+ <rect class="cls-2" transform="rotate(-44.992)" x="-30.059" y="30.067" width="20.044" height="20.044" fill="url(#linearGradient1476)"/>
+ <rect class="cls-3" transform="rotate(-45)" x="-30.064" y="50.11" width="20.043" height="20.043" fill="url(#linearGradient1478)"/>
+ <rect class="cls-4" transform="rotate(-45.004)" x="-10.022" y="30.067" width="20.043" height="20.043" fill="url(#linear-gradient-3)"/>
+ <rect class="cls-5" transform="rotate(-45)" x="-10.021" y="50.109" width="20.044" height="20.044" fill="url(#linearGradient1480)"/>
+ <rect class="cls-6" transform="rotate(-44.996)" x="-10.015" y="70.153" width="20.043" height="20.043" fill="url(#linear-gradient-5)"/>
+ <rect class="cls-7" transform="rotate(-45)" x="10.023" y="70.153" width="20.044" height="20.044" fill="url(#linear-gradient-6)"/>
+ <rect class="cls-8" transform="rotate(-45)" x="10.023" y="50.109" width="20.043" height="20.043" fill="url(#linear-gradient-7)"/>
+ <rect class="cls-9" transform="rotate(-44.992)" x="10.029" y="30.064" width="20.043" height="20.043" fill="url(#linear-gradient-8)"/>
+</svg>
